@@ -1,11 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-پروژه درس داده‌کاوی - پیاده‌سازی، تنظیم پارامتر و مقایسه الگوریتم‌های
-Decision Tree و KNN
-دیتاست: Mobile Price Classification (Kaggle)
-
-نکته: فایل دیتاست را از آدرس زیر دانلود و با نام train.csv در همین پوشه قرار دهید:
-https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification
+""" 
 """
 
 import pandas as pd
